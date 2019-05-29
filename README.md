@@ -18,5 +18,5 @@ need CKO for next release (e.g. 4.14.117 kernel can be patched with
 
 *Use at your own risk.*
 
-[kernel messages](https://jirig.ulmus.cz/cko/cko-example-devices.png)
+![kernel messages](https://jirig.ulmus.cz/cko/cko-example-devices.png)
 
